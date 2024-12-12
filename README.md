@@ -3,6 +3,12 @@
 [APL](https://aplwiki.com/) (_Array Programming Language_) is a highly concise
 language, using its own symbols to express concepts in a very terse way.
 
+Usage of it (or APL adjacent languages like
+[K](https://en.wikipedia.org/wiki/K_(programming_language)) or
+[J](https://www.jsoftware.com/)) seems to be concentrated in finance but not
+solely restricted to it if believing aggregating sources like
+<https://github.com/interregna/arraylanguage-companies>.
+
 # Installation
 
 [Dyalog](https://www.dyalog.com/) APL is used, as it has very nice learning
